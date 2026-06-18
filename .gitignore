@@ -1,0 +1,36 @@
+```
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.local
+.env.*
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+dist/
+build/
+*.so
+*.o
+*.obj
+*.out
+```
